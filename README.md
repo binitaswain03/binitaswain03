@@ -23,13 +23,13 @@ I also enjoy learning how AI can be applied to practical tools and applications.
 
 # 🚀 WHAT I’M WORKING ON
 - Exploring Machine Learning models and AI applications  
-- Building Web projects with database integration  
+- Building Web projects with database integration
 - Improving my understanding of Git, GitHub, and project workflows
 
 ---
 
 # 🛠 TOOLS & TECHNOLOGIES
-- Python, Machine Learning, AI 
+- Python, Machine Learning, AI  
 - Git, GitHub, MySQL, Databases
-- VS Code, Flask/Django, Firebase  
-- HTML, CSS (for web UI), Bootstrap
+- VS Code, Flask, Streamlite  
+- HTML, CSS , Bootstrap
