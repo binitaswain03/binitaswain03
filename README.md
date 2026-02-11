@@ -1,4 +1,4 @@
-### Hi I am Binita👋
+# Hi I am Binita👋
 
 <!--
 **binitaswain03/binitaswain03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,14 +21,14 @@ I also enjoy learning how AI can be applied to practical tools and applications.
 
 ---
 
-# 🚀 WHAT I’M WORKING ON
+## 🚀 WHAT I’M WORKING ON
 - Exploring Machine Learning models and AI applications  
 - Building Web projects with database integration
 - Improving my understanding of Git, GitHub, and project workflows
 
 ---
 
-# 🛠 TOOLS & TECHNOLOGIES
+## 🛠 TOOLS & TECHNOLOGIES
 - Python, Machine Learning, AI  
 - Git, GitHub, MySQL, Databases
 - VS Code, Flask, Streamlite  
